@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tail
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Tiger_geo
+    m_Weight: 1
+  - m_Path: Tiger_geo/body_geo
+    m_Weight: 1
+  - m_Path: TIger_rig
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon/ct_back_02_icon
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon/ct_back_02_icon/ct_back_03_icon2
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon/ct_back_02_icon/ct_back_03_icon2/ct_back_03_icon
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon/ct_back_02_icon/ct_back_03_icon2/ct_back_03_icon/ct_chest_icon
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon/ct_back_02_icon/ct_back_03_icon2/ct_back_03_icon/ct_chest_icon/ct_neck_icon
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon/ct_back_02_icon/ct_back_03_icon2/ct_back_03_icon/ct_chest_icon/ct_neck_icon/ct_head_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_back_01_icon/ct_back_02_icon/ct_back_03_icon2/ct_back_03_icon/ct_chest_icon/ct_neck_icon/ct_head_pad/ct_head_icon
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto/ct_tail_06_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto/ct_tail_06_fk/ct_tail_07_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto/ct_tail_06_fk/ct_tail_07_prime/ct_tail_07_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto/ct_tail_06_fk/ct_tail_07_prime/ct_tail_07_auto/ct_tail_07_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto/ct_tail_06_fk/ct_tail_07_prime/ct_tail_07_auto/ct_tail_07_fk/ct_tail_08_prime
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto/ct_tail_06_fk/ct_tail_07_prime/ct_tail_07_auto/ct_tail_07_fk/ct_tail_08_prime/ct_tail_08_auto
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/COG_icon/ct_pelvis_01_icon/ct_tail_01_prime/ct_tail_01_auto/ct_tail_01_fk/ct_tail_02_prime/ct_tail_02_auto/ct_tail_02_fk/ct_tail_03_prime/ct_tail_03_auto/ct_tail_03_fk/ct_tail_04_prime/ct_tail_04_auto/ct_tail_04_fk/ct_tail_05_prime/ct_tail_05_auto/ct_tail_05_fk/ct_tail_06_prime/ct_tail_06_auto/ct_tail_06_fk/ct_tail_07_prime/ct_tail_07_auto/ct_tail_07_fk/ct_tail_08_prime/ct_tail_08_auto/ct_tail_08_fk
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_back_01_pivot
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_back_01_pivot/ct_back_01_pivot
+      1
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_back_01_pivot/ct_back_01_pivot
+      1/ct_back_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_back_01_pivot/ct_back_01_pivot
+      1/ct_back_02_bind/ct_back_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_back_01_pivot/ct_back_01_pivot
+      1/ct_back_02_bind/ct_back_03_bind/ct_back_04_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_back_01_pivot/ct_back_01_pivot
+      1/ct_back_02_bind/ct_back_03_bind/ct_back_04_bind/ct_back_05_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_beard_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_beard_01_pad/ct_beard_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_beard_01_pad/ct_beard_01_bind/ct_beard_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_beard_01_pad/ct_beard_01_bind/ct_beard_02_bind/ct_beard_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_beard_01_pad/ct_beard_01_bind/ct_beard_02_bind/ct_beard_03_bind/ct_beard_04_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_head_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_head_01_pad/ct_head_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_neck_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_neck_01_pad/ct_neck_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_pelvis_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_pelvis_01_pad/ct_pelvis_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_stomachBreath_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_stomachBreath_pad/ct_stomachBreath_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind/ct_tail_02_bind
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind/ct_tail_02_bind/ct_tail_03_bind
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind/ct_tail_02_bind/ct_tail_03_bind/ct_tail_04_bind
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind/ct_tail_02_bind/ct_tail_03_bind/ct_tail_04_bind/ct_tail_05_bind
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind/ct_tail_02_bind/ct_tail_03_bind/ct_tail_04_bind/ct_tail_05_bind/ct_tail_06_bind
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind/ct_tail_02_bind/ct_tail_03_bind/ct_tail_04_bind/ct_tail_05_bind/ct_tail_06_bind/ct_tail_07_bind
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints/ct_joints/ct_tail_01_pad/ct_tail_01_bind/ct_tail_02_bind/ct_tail_03_bind/ct_tail_04_bind/ct_tail_05_bind/ct_tail_06_bind/ct_tail_07_bind/ct_tail_08_bind
+    m_Weight: 0
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_arm_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_arm_01_pad/lt_arm_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_arm_01_pad/lt_arm_01_bind/lt_arm_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_cheekFur_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_cheekFur_01_pad/lt_cheekFur_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_chestBreath_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_chestBreath_pad/lt_chestBreath_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_clav_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_clav_01_pad/lt_clav_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_ear_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_ear_01_pad/lt_ear_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_ear_01_pad/lt_ear_01_bind/lt_ear_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_ear_01_pad/lt_ear_01_bind/lt_ear_02_bind/lt_ear_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_ForearmTwist_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_ForearmTwist_pad/lt_forearmTwist_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_hand_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_hand_01_pad/lt_hand_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_index_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_index_01_pad/lt_index_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_index_01_pad/lt_index_01_bind/lt_index_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_index_01_pad/lt_index_01_bind/lt_index_02_bind/lt_index_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_leg_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_leg_01_pad/lt_leg_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_leg_01_pad/lt_leg_01_bind/lt_leg_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_leg_01_pad/lt_leg_01_bind/lt_leg_02_bind/lt_leg_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_leg_01_pad/lt_leg_01_bind/lt_leg_02_bind/lt_leg_03_bind/lt_leg_04_pivot
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_leg_01_pad/lt_leg_01_bind/lt_leg_02_bind/lt_leg_03_bind/lt_leg_04_pivot/lt_leg_04_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_mid_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_mid_01_pad/lt_mid_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_mid_01_pad/lt_mid_01_bind/lt_mid_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_mid_01_pad/lt_mid_01_bind/lt_mid_02_bind/lt_mid_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_pinky_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_pinky_01_pad/lt_pinky_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_pinky_01_pad/lt_pinky_01_bind/lt_pinky_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_pinky_01_pad/lt_pinky_01_bind/lt_pinky_02_bind/lt_pinky_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_scap_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_scap_01_pad/lt_scap_01_pivot
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_scap_01_pad/lt_scap_01_pivot/lt_scap_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_thumbDrop_01_Pivot
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_thumbDrop_01_Pivot/lt_thumbDrop_01_Pivot
+      1
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_thumbDrop_01_Pivot/lt_thumbDrop_01_Pivot
+      1/lt_thumb_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_thumbDrop_01_Pivot/lt_thumbDrop_01_Pivot
+      1/lt_thumb_01_bind/lt_thumb_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/lt_joints/lt_thumbDrop_01_Pivot/lt_thumbDrop_01_Pivot
+      1/lt_thumb_01_bind/lt_thumb_02_bind/lt_thumb_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_arm_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_arm_01_pad/rt_arm_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_arm_01_pad/rt_arm_01_bind/rt_arm_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_cheekFur_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_cheekFur_01_pad/rt_cheekFur_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_chestBreath_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_chestBreath_pad/rt_chestBreath_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_clav_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_clav_01_pad/rt_clav_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_ear_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_ear_01_pad/rt_ear_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_ear_01_pad/rt_ear_01_bind/rt_ear_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_ear_01_pad/rt_ear_01_bind/rt_ear_02_bind/rt_ear_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_forearmTwist_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_forearmTwist_pad/rt_forearmTwist_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_hand_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_hand_01_pad/rt_hand_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_index_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_index_01_pad/rt_index_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_index_01_pad/rt_index_01_bind/rt_index_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_index_01_pad/rt_index_01_bind/rt_index_02_bind/rt_index_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_leg_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_leg_01_pad/rt_leg_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_leg_01_pad/rt_leg_01_bind/rt_leg_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_leg_01_pad/rt_leg_01_bind/rt_leg_02_bind/rt_leg_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_leg_01_pad/rt_leg_01_bind/rt_leg_02_bind/rt_leg_03_bind/rt_leg_04_pivot
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_leg_01_pad/rt_leg_01_bind/rt_leg_02_bind/rt_leg_03_bind/rt_leg_04_pivot/rt_leg_04_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_mid_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_mid_01_pad/rt_mid_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_mid_01_pad/rt_mid_01_bind/rt_mid_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_mid_01_pad/rt_mid_01_bind/rt_mid_02_bind/rt_mid_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_pinky_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_pinky_01_pad/rt_pinky_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_pinky_01_pad/rt_pinky_01_bind/rt_pinky_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_pinky_01_pad/rt_pinky_01_bind/rt_pinky_02_bind/rt_pinky_03_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_scap_01_pad
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_scap_01_pad/rt_scap_01_pivot
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_scap_01_pad/rt_scap_01_pivot/rt_scap_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_thumbDrop_01_Pivot
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_thumbDrop_01_Pivot/rt_thumbDrop_01_Pivot
+      1
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_thumbDrop_01_Pivot/rt_thumbDrop_01_Pivot
+      1/rt_thumb_01_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_thumbDrop_01_Pivot/rt_thumbDrop_01_Pivot
+      1/rt_thumb_01_bind/rt_thumb_02_bind
+    m_Weight: 1
+  - m_Path: TIger_rig/Tiger_master/joints/rt_joints/rt_thumbDrop_01_Pivot/rt_thumbDrop_01_Pivot
+      1/rt_thumb_01_bind/rt_thumb_02_bind/rt_thumb_03_bind
+    m_Weight: 1
